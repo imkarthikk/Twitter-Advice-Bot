@@ -1,0 +1,7 @@
+This little app scans the twitter public feed for keywords and replies with suggestions.
+
+uses the excellent python-twitter wrapper: http://code.google.com/p/python-twitter/
+
+Your twitter OAuth account needs R/W access, and fill in the keys in the obvious place at the beginning.
+
+Currently this is powering the twitter bot @unsolict_advice
